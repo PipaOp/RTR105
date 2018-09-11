@@ -15,4 +15,4 @@ ls - paskatities uz "visiem" failem.
   
 ls -a - paskatities uz visiem failem.
 
-pwd - atvert palidz atvert kaut ko.
+pwd - kur es esmu tagad. Gada directorija.
