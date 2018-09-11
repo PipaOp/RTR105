@@ -1,18 +1,40 @@
 # RTR105
 Datormācības kursa elektroniskā klade
 ----
-firefox& - Izmanto lai atvertu firefox.
+**firefox&** - Izmanto lai atvertu firefox.
 
-uname - izmanto lai saņemt informaciju par sistēmu.
+**uname** - izmanto lai saņemt informaciju par sistēmu.
 
-history - lai atvert vesturi.
+**history** - lai atvert vesturi.
 
-man ... - palidziba ar komandu.
+**man** ... - palidziba ar komandu.
 
-whoami - lietotaja vards.
+**whoami** - lietotaja vards.
 
-ls - paskatities uz "visiem" failem.
+**ls** - paskatities uz "visiem" failem.
   
-ls -a - paskatities uz visiem failem.
+**ls -l** - paskatities uz visiem failem.
 
-pwd - kur es esmu tagad. Kada directorija.
+**ls -la** - paskatities uz visiem mapiem, failem, kas ari ir slepti.
+
+**pwd** - kur es esmu tagad. Kada directorija.
+
+**cd /...** - ieiet kaut-kada directorija.
+
+**cd** - versties pie sakotneja directorija (/home/user).
+
+**cd ..** - versties uz vienu soli atpakaļ.
+
+**echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
+
+echo "Teksts" 
+
+teksts
+
+echo -e - atvalina lietot darbibu simbolu sarakstu.
+
+echo "..." > fails.txt
+
+**mkdir** - uztaisīt mapīti.
+
+**rmdir** - dzēst mapīti.
