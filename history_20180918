@@ -186,4 +186,3 @@
   186  idle &
   187  ls -l
   188  history > history_20180918
-  189  history > history_20180918.txt
