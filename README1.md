@@ -1,7 +1,7 @@
 # RTR105
 Datormācības kursa elektroniskā klade
 ----
-
+**Bash**
 
 - **firefox&** - Izmanto lai atvertu firefox.
 
@@ -17,39 +17,39 @@ Datormācības kursa elektroniskā klade
   
 - **ls -l** - paskatities uz visiem failem.
 
-**ls -la** - paskatities uz visiem mapiem, failem, kas ari ir slepti.
+- **ls -la** - paskatities uz visiem mapiem, failem, kas ari ir slepti.
 
-**pwd** - kur es esmu tagad. Kada directorija.
+- **pwd** - kur es esmu tagad. Kada directorija.
 
-**cd /...** - ieiet kaut-kada directorija.
+- **cd /...** - ieiet kaut-kada directorija.
 
-**cd** - versties pie sakotneja directorija (/home/user).
+- **cd** - versties pie sakotneja directorija (/home/user).
 
-**cd ..** - versties uz vienu soli atpakaļ.
+- **cd ..** - versties uz vienu soli atpakaļ.
 
-**echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
+- **echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
 
-> *echo "Teksts"* 
+- > *echo "Teksts"* 
 
-> *teksts*
+- > *teksts*
 
-> *echo -e* - atvalina lietot darbibu simbolu sarakstu.
+- > *echo -e* - atvalina lietot darbibu simbolu sarakstu.
 
-> *echo "..." > fails.txt*
+- > *echo "..." > fails.txt*
 
-**mkdir** - uztaisīt mapīti.
+- **mkdir** - uztaisīt mapīti.
 
-**rmdir** - dzēst mapīti.
+- **rmdir** - dzēst mapīti.
 
-**chmod** - mainit tiesibas
+- **chmod** - mainit tiesibas
 
-**echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
+- **echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
 
-*echo -e "mkdir Folder\ncd Folder\nmkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
+- *echo -e "mkdir Folder\ncd Folder\nmkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
 
-**cat** - nolasit faile\mapiti vai jeb ko.
+- **cat** - nolasit faile\mapiti vai jeb ko.
 
-**nano** - ieiet teksta redigesanas progamma
+- **nano** - ieiet teksta redigesanas progamma
 
 
 
