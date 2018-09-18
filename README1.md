@@ -29,29 +29,29 @@ Datormācības kursa elektroniskā klade
 
 - **echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
 
-- > *echo "Teksts"* 
+- > *echo "Teksts"* .
 
-- > *teksts*
+- > *teksts*.
 
 - > *echo -e* - atvalina lietot darbibu simbolu sarakstu.
 
-- > *echo "..." > fails.txt*
+- > *echo "..." > fails.txt*.
 
 - **mkdir** - uztaisīt mapīti.
 
 - **rmdir** - dzēst mapīti.
 
-- **chmod** - mainit tiesibas
+- **chmod** - mainit tiesibas.
 
-- **echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
+- **echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu.
 
 - *echo -e "mkdir Folder\ncd Folder\nmkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
 
 - **cat** - nolasit faile\mapiti vai jeb ko.
 
-- **nano** - ieiet teksta redigesanas progamma
+- **nano** - ieiet teksta redigesanas progamma.
 
+- **$PATH** - vides mainigais, kurs apraksta mapes, kuras var atrasties skripti un linki. 
 
-
-
+- **git clone https://github.com/PipaOp/RTR105** - kopet informaciju no github.
 
