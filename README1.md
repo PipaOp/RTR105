@@ -27,13 +27,13 @@ Datormācības kursa elektroniskā klade
 
 **echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
 
-echo "Teksts" 
+*echo "Teksts"* 
 
-teksts
+*teksts*
 
-echo -e - atvalina lietot darbibu simbolu sarakstu.
+*echo -e* - atvalina lietot darbibu simbolu sarakstu.
 
-echo "..." > fails.txt
+*echo "..." > fails.txt*
 
 **mkdir** - uztaisīt mapīti.
 
@@ -42,4 +42,12 @@ echo "..." > fails.txt
 **chmod** - mainit tiesibas
 
 **echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
+
+*echo -e "mkdir Folder\ncd Folder\mkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
+
+**cat** - nolasit faile\mapiti vai jeb ko.
+
+**nano** - ieiet teksta redigesanas progamma
+
+
 
