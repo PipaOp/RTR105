@@ -43,7 +43,7 @@ Datormācības kursa elektroniskā klade
 
 **echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
 
-*echo -e "mkdir Folder\ncd Folder\mkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
+*echo -e "mkdir Folder\ncd Folder\nmkdir LoL\nmkdir LoL2" > create_on.sh* - varam taisit daudz mapites vienaa mapee.
 
 **cat** - nolasit faile\mapiti vai jeb ko.
 
