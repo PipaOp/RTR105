@@ -38,3 +38,8 @@ echo "..." > fails.txt
 **mkdir** - uztaisīt mapīti.
 
 **rmdir** - dzēst mapīti.
+
+**chmod** - mainit tiesibas
+
+**echo -e "mkdir Mape\ncd Mape" > create_in.sh** -uztaisit skriptu
+

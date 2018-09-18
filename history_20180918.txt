@@ -1,0 +1,138 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  cromium &
+    5  chromium &
+    6  chromium 
+    7  chromium &
+    8  chromium browser &
+    9  cromium browser &
+   10  echo -e "mkdir Mape\ncd Mape" > create_in.sh
+   11  ls -l
+   12  cat create_in.sh 
+   13  create_in
+   14  create_in.sh
+   15  echo $PATH
+   16  whereis firefox
+   17  pwd
+   18  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user" 
+   19  echo $PATH
+   20  create_in.sh
+   21  echo $PATH
+   22  ls -l
+   23  chmod 764 create_in.sh
+   24  ls -l
+   25  create_in 
+   26  create_in.sh
+   27  ls
+   28  cd Mape
+   29  cd
+   30  echo -e "mkdir Mape\nmkdir Mape\ncd Mape" > create_on.sh
+   31  ls -l
+   32  create_on.sh
+   33  chmod 746 create_on.sh
+   34  ls -l
+   35  create_on.sh
+   36  echo -e "mkdir Mape\nmkdir Mape2\ncd Mape" > create_on.sh
+   37  create_on.sh
+   38  echo -e "mkdir Mape2\nmkdir Mape3\ncd Mape" > create_on.sh
+   39  create_on.sh
+   40  echo -e "mkdir Mape3\nmkdir Mape4\ncd Mape" > create_on.sh
+   41  create_on.sh
+   42  echo -e "mkdir Mape3\nmkdir Folder\ncd Mape" > create_on.sh
+   43  create_on.sh
+   44  echo -e "mkdir Folder\nmkdir Folder2\ncd Mape" > create_on.sh
+   45  create_on.sh
+   46  echo -e "mkdir Folder\nmkdir PipaOp\ncd Mape" > create_on.sh
+   47  create_on.sh
+   48  echo -e "mkdir LoL\nmkdir PipaOp\ncd Mape" > create_on.sh
+   49  create_on.sh
+   50  cat create_on.sh
+   51  echo -e "mkdir LoL\nmkdir PipaOp\ncd PipaOp" > create_on.sh
+   52  create_on.sh
+   53  lsls
+   54  ls
+   55  rm create_on.sh
+   56  ls
+   57  echo $PATH
+   58  ls 
+   59  re Folder*
+   60  rm Folder*
+   61  rm Folder
+   62  PATH=$:~/Mape
+   63  echo $PATH
+   64  rmdir Folder
+   65  /home/user/create_in.sh
+   66  ./create_in.sh
+   67  ls
+   68  echo $PATH
+   69  PATH=$PATH:~/Mape
+   70  echo $PATH
+   71  PATH=$PATH:~/Mape
+   72  echo $PATH
+   73  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   74  echo $PATH
+   75  PATH=$PATH:~/Mape
+   76  echo $PATH
+   77  ./create_in.sh
+   78  rm Folder
+   79  rmdir Folder
+   80  rmdir Folder2
+   81  ls
+   82  rmdir Mape2
+   83  rmdir Mape3
+   84  rmdir Mape4
+   85  ls
+   86  rmdir LoL
+   87  ls
+   88  echo -e "mkdir Folder\ncd Folder\mkdir LoL\nmkdir LoL2" > create_on.sh
+   89  ls -l
+   90  chmod 746 create_on.sh
+   91  ls -l
+   92  create_on.sh
+   93  echo -e "mkdir Folder\ncd Folder\nmkdir LoL\nmkdir LoL2" > create_on.sh
+   94  create_on.sh
+   95  nano create_on.sh 
+   96  create_on.sh
+   97  pwd
+   98  ls
+   99  cd Folder
+  100  ls
+  101  rm create_on.sh
+  102  cd
+  103  rm create_on.sh
+  104  rmdir Folder
+  105  cd folder
+  106  cd Folder
+  107  rmdir LoL
+  108  rmdir LoL2
+  109  cd
+  110  rmdir Folder
+  111  rmdir LoL2
+  112  rmdir PipaOp
+  113  ls
+  114  nano create_in.sh 
+  115  pwd
+  116  ls -l
+  117  git clone gttps://github.com/PipaOp/RTR105
+  118  git clone https://github.com/PipaOp/RTR105
+  119  ls -l
+  120  cd RTR105
+  121  ls -l
+  122  cd history_20180911.txt
+  123  nano history_20180911.txt 
+  124  y
+  125  cat README1.md 
+  126  cd
+  127  ls -l
+  128  cd RTR105
+  129  ls -l
+  130  nano README1.md 
+  131  history
+  132  nano git-upload
+  133  nano git-upload.sh
+  134  nano git-upload
+  135  nano git-upload.sh
+  136  ls -l
+  137  history
+  138  history > history_20180918.txt
