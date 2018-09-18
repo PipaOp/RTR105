@@ -1,19 +1,21 @@
 # RTR105
 Datormācības kursa elektroniskā klade
 ----
-**firefox&** - Izmanto lai atvertu firefox.
 
-**uname** - izmanto lai saņemt informaciju par sistēmu.
 
-**history** - lai atvert vesturi.
+- **firefox&** - Izmanto lai atvertu firefox.
 
-**man** ... - palidziba ar komandu.
+- **uname** - izmanto lai saņemt informaciju par sistēmu.
 
-**whoami** - lietotaja vards.
+- **history** - lai atvert vesturi.
 
-**ls** - paskatities uz "visiem" failem.
+- **man** ... - palidziba ar komandu.
+
+- **whoami** - lietotaja vards.
+
+- **ls** - paskatities uz "visiem" failem.
   
-**ls -l** - paskatities uz visiem failem.
+- **ls -l** - paskatities uz visiem failem.
 
 **ls -la** - paskatities uz visiem mapiem, failem, kas ari ir slepti.
 
@@ -27,13 +29,13 @@ Datormācības kursa elektroniskā klade
 
 **echo "..."** - uzrakstīt tekstu, kuru pec tam redzēsi normalā stavoklī. Piemērs:
 
-*echo "Teksts"* 
+> *echo "Teksts"* 
 
-*teksts*
+> *teksts*
 
-*echo -e* - atvalina lietot darbibu simbolu sarakstu.
+> *echo -e* - atvalina lietot darbibu simbolu sarakstu.
 
-*echo "..." > fails.txt*
+> *echo "..." > fails.txt*
 
 **mkdir** - uztaisīt mapīti.
 
@@ -48,6 +50,8 @@ Datormācības kursa elektroniskā klade
 **cat** - nolasit faile\mapiti vai jeb ko.
 
 **nano** - ieiet teksta redigesanas progamma
+
+
 
 
 
