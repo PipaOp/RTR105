@@ -1,0 +1,40 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/PipaOp/RTR105
+    5  pwd
+    6  cd RTR105/
+    7  idle&
+    8  ls -l
+    9  mv dgr_20181002.py dgr_20181002a.py 
+   10  idle &
+   11  ls -l
+   12  cd
+   13  cd RTR105/
+   14  ls -l
+   15  ./git-upload 20181002_13_53
+   16  123
+   17  cd
+   18  x = 132
+   19  
+   20  ';
+   21  ls -l
+   22  rm -rf RTR105/
+   23  ls -l
+   24  history
+   25  git clone https://github.com/PipaOp
+   26  git clone https://github.com/RTR105
+   27  git clone https://github.com/PipaOp/ RTR105
+   28  git clone https://github.com/PipaOp/RTR105
+   29  cd
+   30  ls -l
+   31  cd RTR105/
+   32  x = 5
+   33  idle&
+   34  ls -l
+   35  history -> history.txt
+   36  history 
+   37  history -> history.txt
+   38  history-> history.txt
+   39  history -> history_20181002.txt
+   40  history > history_20181002.txt
