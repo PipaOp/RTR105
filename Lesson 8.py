@@ -3,9 +3,7 @@ payperhrs = input("Enter pay per hour:")
 h = int(hrs)
 p = float(payperhrs)
 if hrs > 40:
-    print(overloadd)
-hh = (h) - 5
-overload = (h)- 40
-overloadpay = (p) * 1.5
-paynment = (hh)*(p)+(overload)*(overloadpay)
+    overhrs = (hrs) - 40
+overpay=p*1.5
+paynment = 40*p+overhrs*overpay
 print(paynment)
