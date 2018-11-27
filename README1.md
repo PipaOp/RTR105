@@ -55,3 +55,5 @@ Datormācības kursa elektroniskā klade
 
 - **git clone https://github.com/PipaOp/RTR105** - kopet informaciju no github.
 
+- **import sys**
+**sys.path.append("/usr/local/anaconda3/lib/pithon3.6/site-packages")** - lai lejupieladēt randomaizeru. (Sk. monte_karlo.py)
